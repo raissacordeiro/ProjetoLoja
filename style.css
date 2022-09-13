@@ -1,0 +1,28 @@
+body{
+    background-color: #C9C9C9;
+}
+
+.cabecalho{
+    top: 200px;
+
+}
+
+.linha2{
+    margin-left: 1415px;
+    
+}
+
+.linhadois{
+    right: 200px;
+}
+
+.primeiro_menu{
+    margin: auto;
+    position: relative;
+}
+
+.segundo_menu{
+    margin: auto;
+    position: relative;
+    left: 1415px;
+}
